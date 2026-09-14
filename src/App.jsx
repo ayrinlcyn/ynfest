@@ -25,7 +25,6 @@ export default function App() {
       <Stats />
       <Intro />
       <Alur />
-      <WhyUs />
       <Programs />
       <Campus />
       <StudentLife />
