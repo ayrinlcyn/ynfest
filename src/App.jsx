@@ -13,6 +13,7 @@ import Requirements from './components/Requirements';
 import Faq from './components/Faq';
 import Cta from './components/Cta';
 import Footer from './components/Footer';
+import WhyUs from './components/WhyUs';
 
 export default function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -24,6 +25,7 @@ export default function App() {
       <Stats />
       <Intro />
       <Alur />
+      <WhyUs />
       <Programs />
       <Campus />
       <StudentLife />
