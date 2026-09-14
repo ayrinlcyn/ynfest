@@ -4,7 +4,6 @@ import Hero from './components/Hero';
 import Stats from './components/Stats';
 import Intro from './components/Intro';
 import Alur from './components/Alur';
-import WhyUs from './components/WhyUs';
 import Programs from './components/Programs';
 import Campus from './components/Campus';
 import StudentLife from './components/StudentLife';
